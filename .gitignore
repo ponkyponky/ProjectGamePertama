@@ -5,5 +5,3 @@ Temp/*
 
 .vsconfig
 *.sln
-.vs/*
-obj/*
